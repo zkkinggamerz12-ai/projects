@@ -1,3 +1,4 @@
+(Output file should be in folder)
 Open Main.py file and run it then write code.
 If need any help click on the nav bar help.
 This is B+ programming language Made by ZKkinggamerz.
